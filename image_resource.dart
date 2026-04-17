@@ -1,0 +1,30 @@
+class ImageRes {
+  ImageRes._();
+  static const String launchBackground = "assets/background/launch.png";
+  static const String digifunLogo = "assets/logos/digifunLogo.jpeg";
+  static const String launchBack = "assets/background/launchs.png";
+  static const String coinsLogo = "assets/logos/coins.png";
+  static const String diamondLogo = "assets/logos/diamond.png";
+  static const String boardGame = "assets/logos/board-game.png";
+  static const String quizGame = "assets/logos/quizz.jpg";
+  static const String gameLogo = "assets/logos/games.png";
+  static const String rewardLogo = "assets/logos/rewards.png";
+  static const String quizLogo = "assets/logos/quiz-icon.png";
+  static const String profilePersonLogo = "assets/logos/profilePerson.png";
+  static const String settingsLogo = "assets/logos/set.png";
+  static const String cardsLogo = "assets/logos/cards.jpg";
+  static const String tapCircle = "assets/logos/tap_circle.png";
+  static const String flipCard = "assets/logos/flip.jpg";
+  static const String colorMatch = "assets/logos/match_color.png";
+  static const String mathChallenge = "assets/logos/math_challenge.png";
+  static const String swipeArrow = "assets/logos/swipe.jpg";
+  static const String oddOneOut = "assets/logos/odd.jpeg";
+  static const String running = "assets/logos/run.jpg";
+  static const String workout = "assets/logos/body_workout.jpg";
+  static const String walking = "assets/logos/walk.jpg";
+  static const String pushUps = "assets/logos/push_ups.jpeg";
+  static const String yoga = "assets/logos/yoga.jpg";
+  static const String meditation = "assets/logos/meditation.jpeg";
+  static const String hydration = "assets/logos/water.jpg";
+  static const String correct = "assets/logos/correct.jpg";
+}
